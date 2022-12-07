@@ -1,1 +1,7 @@
-/* Write your CSS here! */
+body{
+    background-color: rgb(237, 125, 128);
+    
+}
+table{
+    background-color: deepskyblue;
+}
