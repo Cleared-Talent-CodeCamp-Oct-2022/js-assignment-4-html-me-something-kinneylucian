@@ -1,1 +1,24 @@
-/* Write your CSS here! */
+body{
+    background-color: goldenrod;
+    text-align: center;
+    margin: 8px;
+    padding: 10px;
+    display: block;
+}
+table{
+    padding: 10px;
+    background-color: deepskyblue;
+    border: 1px solid black;
+    margin-right: auto;
+    margin-left: auto;
+}
+#mainHeading{
+    color: red;
+    font-size: 50px;
+}
+.funParagraph{
+    color: green;
+}
+td{
+    background-color: rgba(68, 28, 28, 0.212);
+}
