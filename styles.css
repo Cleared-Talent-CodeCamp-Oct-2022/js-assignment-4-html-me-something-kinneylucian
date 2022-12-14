@@ -1,10 +1,23 @@
 body{
-    background-color: rgb(237, 125, 128);
-    
+    background-color: goldenrod;
+    text-align: center;
+    margin: 8px;
+    padding: 10px;
+    display: block;
 }
 table{
-    background-color: aquamarine;
-}
-table{
+    padding: 10px;
     background-color: deepskyblue;
+    border: 1px solid black;
+    margin-right: auto;
+    margin-left: auto;
+}
+#mainHeading{
+    color: red;
+}
+.funParagraph{
+    color: green;
+}
+td{
+    background-color: rgba(71, 31, 31, 0.212);
 }
